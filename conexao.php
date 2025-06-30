@@ -1,9 +1,9 @@
 <?php
 // conexao.php (ou o nome do seu arquivo de conexão)
 
-$user = 'divero'; // Substitua pelo seu usuário Oracle
-$password = 'r#Syh$T4'; // Substitua pela sua senha Oracle
-$dsn = '10.10.50.2:1541/C0417PRD.prddatabase.pocvcn.oraclevcn.com'; // Ex: 'localhost/XE' ou '(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=XE)))'
+$user = 'user'; // Substitua pelo seu usuário Oracle
+$password = 'senha'; // Substitua pela sua senha Oracle
+$dsn = 'dns'; // Ex: 'localhost/XE' ou '(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=XE)))'
 
 try {
     $conn = oci_connect($user, $password, $dsn);
