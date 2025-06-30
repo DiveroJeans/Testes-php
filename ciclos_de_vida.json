@@ -1,0 +1,1088 @@
+[
+    {
+        "referencia": "BM001",
+        "subgrupo": "028",
+        "item": "00BEGE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BM005",
+        "subgrupo": "UNC",
+        "item": "00BEGE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BM014",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "BM018",
+        "subgrupo": "032",
+        "item": "00BEGE",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "BM019",
+        "subgrupo": "032",
+        "item": "DOURAD",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "BM021",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BM023",
+        "subgrupo": "016",
+        "item": "000UNC",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BM024",
+        "subgrupo": "024",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BM024",
+        "subgrupo": "034",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT000",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT174",
+        "subgrupo": "UNC",
+        "item": "PRATAV",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT188",
+        "subgrupo": "UNC",
+        "item": "MARINH",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT236",
+        "subgrupo": "UNC",
+        "item": "BRONZE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT239",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT272",
+        "subgrupo": "UNC",
+        "item": "BRANCO",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT504",
+        "subgrupo": "UNC",
+        "item": "FERRUG",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT509",
+        "subgrupo": "UNC",
+        "item": "PRETOB",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT511",
+        "subgrupo": "UNC",
+        "item": "FERRUG",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT512",
+        "subgrupo": "UNC",
+        "item": "BRANCO",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT514",
+        "subgrupo": "UNC",
+        "item": "OUROVE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT532",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT532",
+        "subgrupo": "UNC",
+        "item": "OUROVE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT532",
+        "subgrupo": "UNC",
+        "item": "COBREF",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT535",
+        "subgrupo": "UNC",
+        "item": "00FUME",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT535",
+        "subgrupo": "UNC",
+        "item": "00ONIX",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT536",
+        "subgrupo": "UNC",
+        "item": "00ROSE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT539",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT540",
+        "subgrupo": "UNC",
+        "item": "COBREB",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT541",
+        "subgrupo": "UNC",
+        "item": "COBREF",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT541",
+        "subgrupo": "UNC",
+        "item": "OUROVE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT552",
+        "subgrupo": "UNC",
+        "item": "PRETOB",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT552",
+        "subgrupo": "UNC",
+        "item": "AZULOC",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT553",
+        "subgrupo": "UNC",
+        "item": "PRETOB",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT555",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT555",
+        "subgrupo": "UNC",
+        "item": "AZULOC",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT556",
+        "subgrupo": "UNC",
+        "item": "00FUME",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT559",
+        "subgrupo": "UNC",
+        "item": "NIQUEL",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT580",
+        "subgrupo": "UNC",
+        "item": "PRETOF",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT584",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT585",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT583",
+        "subgrupo": "UNC",
+        "item": "0UNICO",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT587",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT588",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT592",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT590",
+        "subgrupo": "UNC",
+        "item": "PRETOB",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "BT594",
+        "subgrupo": "UNC",
+        "item": "0CINZA",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "BT594",
+        "subgrupo": "UNC",
+        "item": "00BEGE",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "BT595",
+        "subgrupo": "UNC",
+        "item": "BRONZE",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "BT596",
+        "subgrupo": "UNC",
+        "item": "PRETOB",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "CA011",
+        "subgrupo": "150",
+        "item": "000CRU",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA011",
+        "subgrupo": "170",
+        "item": "000CRU",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA012",
+        "subgrupo": "150",
+        "item": "AZUL00",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA013",
+        "subgrupo": "150",
+        "item": "PESS00",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA013",
+        "subgrupo": "UNC",
+        "item": "PESS00",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA014",
+        "subgrupo": "150",
+        "item": "LARANJ",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA014",
+        "subgrupo": "UNC",
+        "item": "LARANJ",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA015",
+        "subgrupo": "UNC",
+        "item": "00AZUL",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA015",
+        "subgrupo": "150",
+        "item": "00AZUL",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA015",
+        "subgrupo": "UNC",
+        "item": "00BEGE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA015",
+        "subgrupo": "UNC",
+        "item": "000CRU",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA016",
+        "subgrupo": "UNC",
+        "item": "00AGUA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA016",
+        "subgrupo": "150",
+        "item": "00AGUA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA017",
+        "subgrupo": "170",
+        "item": "MARROM",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA017",
+        "subgrupo": "150",
+        "item": "MARROM",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA017",
+        "subgrupo": "UNC",
+        "item": "MARROM",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA019",
+        "subgrupo": "UNC",
+        "item": "000UNC",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "CA019",
+        "subgrupo": "UNC",
+        "item": "000CRU",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "EX087",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX101",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX109",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX110",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX120",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX155",
+        "subgrupo": "UNC",
+        "item": "0PRETO",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX155",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX158",
+        "subgrupo": "UNC",
+        "item": "0PRETA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX158",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX167",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX174",
+        "subgrupo": "UNC",
+        "item": "0PRETA",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "EX189",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX369",
+        "subgrupo": "UNC",
+        "item": "000UNC",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "EX381",
+        "subgrupo": "UNC",
+        "item": "000UNC",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX390",
+        "subgrupo": "UNC",
+        "item": "000UNC",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX396",
+        "subgrupo": "UNC",
+        "item": "000UNC",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX432",
+        "subgrupo": "UNC",
+        "item": "0KRAFT",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX445",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX447",
+        "subgrupo": "UNC",
+        "item": "000UNC",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX449",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX454",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX455",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX456",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX457",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX460",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX461",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX478",
+        "subgrupo": "UNC",
+        "item": "COBREB",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX478",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX479",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX480",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX481",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX482",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX485",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX501",
+        "subgrupo": "UNC",
+        "item": "0PRATA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX501",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX502",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "EX503",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX504",
+        "subgrupo": "UNC",
+        "item": "0PRATA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX504",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX506",
+        "subgrupo": "UNC",
+        "item": "0UNICA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX513",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "EX514",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL000",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL016",
+        "subgrupo": "UNC",
+        "item": "000UNC",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL025",
+        "subgrupo": "UNC",
+        "item": "00ROSA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL024",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL029",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL077",
+        "subgrupo": "UNC",
+        "item": "NIQUEL",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL077",
+        "subgrupo": "UNC",
+        "item": "OUROVE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL093",
+        "subgrupo": "UNC",
+        "item": "OUROVE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL273",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL274",
+        "subgrupo": "UNC",
+        "item": "OUROVE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL274",
+        "subgrupo": "UNC",
+        "item": "NIQUEL",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL276",
+        "subgrupo": "UNC",
+        "item": "00FUME",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL278",
+        "subgrupo": "UNC",
+        "item": "OUROVE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL278",
+        "subgrupo": "UNC",
+        "item": "COBREB",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL286",
+        "subgrupo": "UNC",
+        "item": "BRONZE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL297",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL299",
+        "subgrupo": "UNC",
+        "item": "NIQUEL",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL305",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL305",
+        "subgrupo": "UNC",
+        "item": "NIQUEL",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL311",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL315",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL315",
+        "subgrupo": "UNC",
+        "item": "TRANSP",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PL318",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "PT000",
+        "subgrupo": "UNC",
+        "item": "MARMOR",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PT000",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PT001",
+        "subgrupo": "UNC",
+        "item": "MARMOR",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PT001",
+        "subgrupo": "UNC",
+        "item": "00AZUL",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PT001",
+        "subgrupo": "UNC",
+        "item": "0PRETO",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PT001",
+        "subgrupo": "UNC",
+        "item": "BRANCO",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PT001",
+        "subgrupo": "UNC",
+        "item": "LARANJ",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PT001",
+        "subgrupo": "UNC",
+        "item": "UNC000",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PT002",
+        "subgrupo": "UNC",
+        "item": "BRANCO",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PT004",
+        "subgrupo": "UNC",
+        "item": "BRANCA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "PT007",
+        "subgrupo": "UNC",
+        "item": "MARMOR",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB011",
+        "subgrupo": "UNC",
+        "item": "COBREB",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB038",
+        "subgrupo": "UNC",
+        "item": "COBREF",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB070",
+        "subgrupo": "UNC",
+        "item": "NIQUEL",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB088",
+        "subgrupo": "UNC",
+        "item": "COBREF",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB143",
+        "subgrupo": "UNC",
+        "item": "FUMEFO",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB255",
+        "subgrupo": "UNC",
+        "item": "PRETOB",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "RB255",
+        "subgrupo": "UNC",
+        "item": "PRATAV",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB255",
+        "subgrupo": "UNC",
+        "item": "NIQUEL",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "RB255",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "RB255",
+        "subgrupo": "UNC",
+        "item": "COBREB",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "RB255",
+        "subgrupo": "UNC",
+        "item": "AZULOC",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB255",
+        "subgrupo": "UNC",
+        "item": "00FUME",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "RB255",
+        "subgrupo": "UNC",
+        "item": "OUROVE",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "RB255",
+        "subgrupo": "UNC",
+        "item": "PRETOF",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB256",
+        "subgrupo": "UNC",
+        "item": "BRANCO",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "RB256",
+        "subgrupo": "UNC",
+        "item": "VIOLET",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB256",
+        "subgrupo": "UNC",
+        "item": "FERRUG",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB257",
+        "subgrupo": "UNC",
+        "item": "OUROVE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB259",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "liberado"
+    },
+    {
+        "referencia": "RB260",
+        "subgrupo": "UNC",
+        "item": "COBREB",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "RB260",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "RB260",
+        "subgrupo": "UNC",
+        "item": "OUROVE",
+        "ciclo_vida": "fixo"
+    },
+    {
+        "referencia": "RB261",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB262",
+        "subgrupo": "UNC",
+        "item": "MARINH",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB265",
+        "subgrupo": "UNC",
+        "item": "FUMEFO",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB265",
+        "subgrupo": "UNC",
+        "item": "BRONZE",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB267",
+        "subgrupo": "UNC",
+        "item": "FUMACA",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB267",
+        "subgrupo": "UNC",
+        "item": "FERRUG",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB267",
+        "subgrupo": "UNC",
+        "item": "PRATAV",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB270",
+        "subgrupo": "UNC",
+        "item": "COBREF",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB271",
+        "subgrupo": "UNC",
+        "item": "PRETOB",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB271",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB271",
+        "subgrupo": "UNC",
+        "item": "00FUME",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB271",
+        "subgrupo": "UNC",
+        "item": "AZULOC",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB277",
+        "subgrupo": "UNC",
+        "item": "DOURAD",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB277",
+        "subgrupo": "UNC",
+        "item": "PRETOF",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "RB277",
+        "subgrupo": "UNC",
+        "item": "00FUME",
+        "ciclo_vida": "Finalizar"
+    },
+    {
+        "referencia": "BT207",
+        "subgrupo": "UNC",
+        "item": "00FUME",
+        "ciclo_vida": "Finalizar"
+    }
+]
